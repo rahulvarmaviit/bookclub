@@ -2,7 +2,7 @@
 
 A full-stack web application for managing group book reading sessions with chapter schedules, progress tracking, and discussion forums.
 
-## 🚀 Quick Start Guide
+## 🚀 Quick Start Guide..
 
 ### Prerequisites
 
@@ -302,4 +302,5 @@ npm run dev
 ---
 
 Happy Reading! 📚✨
+
 
