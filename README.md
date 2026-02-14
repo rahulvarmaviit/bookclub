@@ -4,7 +4,7 @@ A full-stack web application for managing group book reading sessions with chapt
 
 ## 🚀 Quick Start Guide..
 
-### Prerequisites
+### Prerequisites>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 Before running this application, make sure you have installed:
 
@@ -302,5 +302,6 @@ npm run dev
 ---
 
 Happy Reading! 📚✨
+
 
 
