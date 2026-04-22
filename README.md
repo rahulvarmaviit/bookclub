@@ -1,6 +1,6 @@
 # 📚 BookClub - Group Reading Application..
 
-A full-stack web application for managing group book reading sessions with chapter schedules, progress tracking, and discussion forums................
+A full-stack web application for managing group book reading sessions with chapter schedules, progress tracking, and discussion forums....................
 
 
 ## 🚀 Quick Start Guide.
