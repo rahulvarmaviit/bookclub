@@ -7,7 +7,7 @@ A full-stack web application for managing group book reading sessions with chapt
 ### Prerequisites>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>....
 
 Before running this application, make sure you have installed:
-
+-----------------------------------------------------------------------
 - **Python 3.8+** - [Download here](https://www.python.org/downloads/)
 - **Node.js 16+** - [Download here](https://nodejs.org/)
 - **npm** (comes with Node.js)
