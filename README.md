@@ -6,6 +6,8 @@ A full-stack web application for managing group book reading sessions with chapt
 ## 🚀 Quick Start Guide.............................................................................................
 ### Prerequisites>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+ohjxucjas  jnsbcjsDAjp djlkboas ikabxjsanxjsb
+
 .......................................................................
 Before running this application, make sure you have installed:
 -----------------------------------------------------------------------
