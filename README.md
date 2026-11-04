@@ -209,7 +209,7 @@ The `db.sqlite3` file contains:
 **Important:** Don't delete `db.sqlite3` - it contains all your data!
 
 ## 🔧 Development Commands
-
+iojklljljjhghjjhhgjhg
 ### Backend Commands
 ```bash
 # Run migrations (if needed)
